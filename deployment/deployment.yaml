@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: chat-app-container
-        image: vincentgimenes123/gemini_chat_app:v1.1.6
+        image: vincentgimenes123/gemini_chat_app:v1.2.1
         ports:
         - containerPort: 8000
